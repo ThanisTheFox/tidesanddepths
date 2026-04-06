@@ -3,9 +3,11 @@
 	"id": "tidesanddepths",
 	"version": "${version}",
 	"name": "Tides and Depths",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Explore the terrifying abyss of the ocean or be ones with your fishing rod in the safety of your home",
 	"authors": [
-		"Me!"
+		"FinnHallqvist",
+		"Muumi",
+		"Thanis747"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -17,6 +19,9 @@
 	"entrypoints": {
 		"main": [
 			"net.tidal.tidesanddepths.TidesAndDepths"
+		],
+		"client": [
+			"net.tidal.tidesanddepths.TidesAndDepthsClient"
 		],
 		"fabric-datagen": [
 			"net.tidal.tidesanddepths.TidesAndDepthsDataGenerator"
