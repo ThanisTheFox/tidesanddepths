@@ -7,9 +7,9 @@ import net.minecraft.client.gui.DrawContext;
 
 public final class PressureScreenEffects {
 
-    private static final float[] COL_OCEAN    = {  0f, 15f,  70f };  // deep blue
-    private static final float[] COL_DANGER   = { 10f,  0f,  35f };  // dark purple
-    private static final float[] COL_CRITICAL = { 80f,  0f,   0f };  // blood red
+    private static final float[] COL_OCEAN    = {  0f, 15f,  70f };
+    private static final float[] COL_DANGER   = { 10f,  0f,  35f };
+    private static final float[] COL_CRITICAL = { 80f,  0f,   0f };
 
     private PressureScreenEffects() {}
 

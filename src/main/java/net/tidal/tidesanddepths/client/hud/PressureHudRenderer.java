@@ -17,10 +17,10 @@ public final class PressureHudRenderer {
     private static final int C_TICK          = 0x33FFFFFF;
 
 
-    private static final int C_LOW      = 0xFF1A6FFF;   // ocean blue
-    private static final int C_MID      = 0xFF00DDCC;   // teal / cyan
-    private static final int C_HIGH     = 0xFFFFAA00;   // amber
-    private static final int C_CRITICAL = 0xFFFF2200;   // danger red
+    private static final int C_LOW      = 0xFF1A6FFF;
+    private static final int C_MID      = 0xFF00DDCC;
+    private static final int C_HIGH     = 0xFFFFAA00;
+    private static final int C_CRITICAL = 0xFFFF2200;
 
     private static final int C_LABEL    = 0xFFDDDDDD;
     private static final int C_LABEL_DIM= 0xFF888888;
