@@ -45,7 +45,7 @@ public final class PressureEffects {
         if (p >= 0.70f) {
             player.playSound(
                     SoundEvents.AMBIENT_UNDERWATER_LOOP_ADDITIONS_RARE,
-                    volume * 0.4f, 0.55f);
+                    volume * 0.5f, 0.55f);
         }
     }
 
