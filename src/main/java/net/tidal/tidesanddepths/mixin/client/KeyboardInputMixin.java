@@ -1,7 +1,7 @@
 package net.tidal.tidesanddepths.mixin.client;
 
 import net.minecraft.client.input.KeyboardInput;
-import net.tidal.tidesanddepths.client.hud.pressure.fishing.ClientFishingMinigame;
+import net.tidal.tidesanddepths.client.hud.fishing.ClientFishingMinigame;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;

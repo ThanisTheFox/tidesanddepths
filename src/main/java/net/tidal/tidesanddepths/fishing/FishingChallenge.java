@@ -1,5 +1,7 @@
 package net.tidal.tidesanddepths.fishing;
 
+import net.tidal.tidesanddepths.client.hud.fishing.ClientFishingMinigame;
+
 final class FishingChallenge {
     private final int bobberEntityId;
     private boolean resolved;
