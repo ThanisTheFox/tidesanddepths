@@ -1,4 +1,4 @@
-package net.tidal.tidesanddepths.client.hud;
+package net.tidal.tidesanddepths.client.hud.pressure;
 
 import net.tidal.tidesanddepths.pressure.PressureConfig;
 import net.tidal.tidesanddepths.pressure.PressureManager;
