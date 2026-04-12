@@ -1,4 +1,4 @@
-package net.tidal.tidesanddepths.client.hud.pressure.fishing;
+package net.tidal.tidesanddepths.client.hud.fishing;
 
 import net.fabricmc.fabric.api.client.networking.v1.ClientPlayNetworking;
 import net.fabricmc.fabric.api.networking.v1.PacketByteBufs;
